@@ -1,4 +1,4 @@
-# claude-plugins-faf
+# faf-plugins
 
 **The FAF Foundation's Claude Code plugin marketplace.**
 
@@ -14,7 +14,7 @@ Two plugins, both IANA-registered formats, both cross-vendor portable:
 In Claude Code:
 
 ```
-/plugin marketplace add Wolfe-Jam/claude-plugins-faf
+/plugin marketplace add Wolfe-Jam/faf-plugins
 /plugin install faf
 /plugin install faf-memory
 ```

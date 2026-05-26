@@ -1,7 +1,7 @@
 {
-  "name": "claude-plugins-faf",
+  "name": "faf-plugins",
   "owner": {
-    "name": "Wolfe-Jam"
+    "name": "FAF Foundation"
   },
   "plugins": [
     {
