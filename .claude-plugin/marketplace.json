@@ -1,0 +1,28 @@
+{
+  "name": "claude-plugins-faf",
+  "owner": {
+    "name": "Wolfe-Jam"
+  },
+  "plugins": [
+    {
+      "name": "faf",
+      "description": "Persistent project context for Claude Code. .faf is the IANA-registered structured file (application/vnd.faf+yaml) that captures your project's DNA — stack, goals, the 6 Ws — so Claude never has to ask \"what is this project?\" twice. One source generates CLAUDE.md, AGENTS.md, .cursorrules, GEMINI.md. Define once, every AI reads consistent context. Cross-vendor: Claude, Cursor, Grok, Gemini.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Wolfe-Jam/faf-plugin.git",
+        "sha": "bcc6b5fed9d93c61d46d82398debd80e0e92841e"
+      },
+      "homepage": "https://faf.one/context"
+    },
+    {
+      "name": "faf-memory",
+      "description": "etch and forget. Persistent AI memory in IANA-registered .fafm (application/vnd.fafm+yaml). Cross-vendor — Claude, Cursor, Grok, Gemini all read the same memory. Etch a fact once, recall it in any future session. No more session-zero blank slate. Nelly Never Forgets (so you can!).",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Wolfe-Jam/faf-memory.git",
+        "sha": "9575e56b10bc539845077385105ab1bf6d786799"
+      },
+      "homepage": "https://faf.one/memory"
+    }
+  ]
+}
