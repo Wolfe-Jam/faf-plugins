@@ -10,7 +10,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Wolfe-Jam/faf-plugin.git",
-        "sha": "bcc6b5fed9d93c61d46d82398debd80e0e92841e"
+        "sha": "5b797bed35bf986f27fbf7e7e69bd3212cfa3e71"
       },
       "homepage": "https://faf.one/context"
     },
@@ -20,7 +20,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Wolfe-Jam/faf-memory.git",
-        "sha": "9575e56b10bc539845077385105ab1bf6d786799"
+        "sha": "c8978a9c2448248f30271448fcc5aa4ca136a8e6"
       },
       "homepage": "https://faf.one/memory"
     }
